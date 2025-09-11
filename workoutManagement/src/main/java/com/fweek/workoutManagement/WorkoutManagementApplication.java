@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class WorkoutManagementApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(WorkoutManagementApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(WorkoutManagementApplication.class, args);
+    }
 }
